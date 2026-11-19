@@ -16,7 +16,7 @@
 | Камень | Что делает | Статус |
 | :--- | :--- | :--- |
 | 🔴 [Одем](#одем) | Бухгалтерия, которую невозможно прочитать извне | Бета 1.2.0, [демо](https://datadiver-ru.github.io/demo.html) |
-| 💎 [Адамант](#адамант) | Проверка защиты Windows и своей сети | Вышел · 1.2.1, [скачать](https://github.com/datadiver-ru/adamant/releases) |
+| 💎 [Адамант](#адамант) | Проверка защиты Windows и своей сети | Вышел · 1.2.2, [скачать](https://github.com/datadiver-ru/adamant/releases) |
 | ⚪️ Топаз | Юридическая версия | План |
 | ⚪️ Карбункул | Для нотариусов | План |
 
@@ -38,7 +38,7 @@
 - Индекс защиты от 0 до 100 и «чистота камня» - видно, крепнет защита или слабеет.
 - Страж запоминает систему и показывает, что изменилось; чек-лист на 31 совет.
 - Исправления кнопкой с откатом. Ничего не отправляет в интернет.
-- Бесплатно - всё, что защищает. Полная версия добавляет Bluetooth, защиту входа, учения и «Пока вас не было».
+- Бесплатно - всё, что защищает. Полная версия добавляет Bluetooth, защиту входа, учения, «Пока вас не было» и «Закрыть лишнее»: одна кнопка закрывает все ненужные порты, видно, что перестанет работать, откат одной кнопкой.
 
 [Об Адаманте](https://datadiver-ru.github.io/adamant.html) · [Скачать](https://github.com/datadiver-ru/adamant/releases) · [Исходный код](https://github.com/datadiver-ru/adamant) (открыт для просмотра) · [Ключ полной версии в боте](https://t.me/datadiver_shop_bot)
 
@@ -71,7 +71,7 @@ Each stone is closed software that protects your data. What they share: offline,
 | Stone | What it does | Status |
 | :--- | :--- | :--- |
 | 🔴 [Odem](#odem) | Accounting that cannot be read from outside | Beta 1.2.0, [demo](https://datadiver-ru.github.io/en/demo.html) |
-| 💎 [Adamant](#adamant) | Security check for Windows and your own network | Released · 1.2.1, [download](https://github.com/datadiver-ru/adamant/releases) |
+| 💎 [Adamant](#adamant) | Security check for Windows and your own network | Released · 1.2.2, [download](https://github.com/datadiver-ru/adamant/releases) |
 | ⚪️ Topaz | Legal edition | Planned |
 | ⚪️ Carbuncle | For notaries | Planned |
 
@@ -93,7 +93,7 @@ A security check for your Windows PC and your own home or office network. Adaman
 - A protection index from 0 to 100 and a stone clarity grade - see whether protection grows or fades.
 - The Guard remembers your system and shows what changed; a 31-tip security checklist.
 - One-click fixes with undo. Sends nothing to the internet.
-- Everything that protects you is free. The full version adds Bluetooth, sign-in protection, drills and "While you were away".
+- Everything that protects you is free. The full version adds Bluetooth, sign-in protection, drills, "While you were away" and Close what is not needed: one button closes all unneeded ports, shows what will stop working, undo in one click.
 
 [About Adamant](https://datadiver-ru.github.io/en/adamant.html) · [Download](https://github.com/datadiver-ru/adamant/releases) · [Source code](https://github.com/datadiver-ru/adamant) (available to read) · [Full version key in the bot](https://t.me/datadiver_shop_bot)
 
