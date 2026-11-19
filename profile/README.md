@@ -52,7 +52,7 @@
 
 - [Сайт](https://datadiver-ru.github.io/) · [Все камни](https://datadiver-ru.github.io/stones.html)
 - Читать: Telegram-канал [Кира · Data Diver](https://t.me/datadiver_ru) · [LinkedIn](https://www.linkedin.com/in/datadiverru)
-- Ключи к камням: Telegram-бот [@datadiver_shop_bot](https://t.me/datadiver_shop_bot), оплата звёздами Telegram
+- Ключи к камням: Telegram-бот Киры [@datadiver_shop_bot](https://t.me/datadiver_shop_bot)
 - Связь и сообщения об уязвимостях: data.diver.ru@gmail.com · Telegram [@data_diver_ru](https://t.me/data_diver_ru)
 
 <sub>Аватар - Кира. Лицо не важно. Важен код.</sub>
@@ -107,7 +107,7 @@ A security check for your Windows PC and your own home or office network. Adaman
 
 - [Website](https://datadiver-ru.github.io/en/) · [All stones](https://datadiver-ru.github.io/en/stones.html)
 - Follow: [LinkedIn](https://www.linkedin.com/in/datadiverru) · Telegram channel [Kira · Data Diver](https://t.me/datadiver_ru) (RU)
-- Keys to the stones: Telegram bot [@datadiver_shop_bot](https://t.me/datadiver_shop_bot), paid with Telegram Stars
+- Keys to the stones: Kira’s Telegram bot [@datadiver_shop_bot](https://t.me/datadiver_shop_bot)
 - Contact and vulnerability reports: data.diver.ru@gmail.com · Telegram [@data_diver_ru](https://t.me/data_diver_ru)
 
 <sub>The avatar is Kira. The face doesn’t matter. The code does.</sub>
