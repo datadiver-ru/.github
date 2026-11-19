@@ -16,7 +16,7 @@
 | Камень | Что делает | Статус |
 | :--- | :--- | :--- |
 | 🔴 [Одем](#одем) | Бухгалтерия, которую невозможно прочитать извне | Бета 1.2.0, [демо](https://datadiver-ru.github.io/demo.html) |
-| 💎 [Адамант](#адамант) | Проверка защиты Windows и своей сети | Вышел · 1.2.0, [скачать](https://github.com/datadiver-ru/adamant/releases) |
+| 💎 [Адамант](#адамант) | Проверка защиты Windows и своей сети | Вышел · 1.2.1, [скачать](https://github.com/datadiver-ru/adamant/releases) |
 | ⚪️ Топаз | Юридическая версия | План |
 | ⚪️ Карбункул | Для нотариусов | План |
 
@@ -71,7 +71,7 @@ Each stone is closed software that protects your data. What they share: offline,
 | Stone | What it does | Status |
 | :--- | :--- | :--- |
 | 🔴 [Odem](#odem) | Accounting that cannot be read from outside | Beta 1.2.0, [demo](https://datadiver-ru.github.io/en/demo.html) |
-| 💎 [Adamant](#adamant) | Security check for Windows and your own network | Released · 1.2.0, [download](https://github.com/datadiver-ru/adamant/releases) |
+| 💎 [Adamant](#adamant) | Security check for Windows and your own network | Released · 1.2.1, [download](https://github.com/datadiver-ru/adamant/releases) |
 | ⚪️ Topaz | Legal edition | Planned |
 | ⚪️ Carbuncle | For notaries | Planned |
 
