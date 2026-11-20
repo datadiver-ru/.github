@@ -45,7 +45,7 @@
 
 - **Zero-knowledge** - «Мы не можем прочитать ваши данные.»
 - **Open-core** - «Ядро будет открыто. Приватность бесплатна.»
-- **No-cloud** - «Без облака и без слежки.»
+- **Offline-first** - «Работает без интернета.» Кроме Опала: это мессенджер, ему нужен интернет. Сообщения идут через Tor, без наших серверов.
 
 ## Ссылки
 
@@ -98,7 +98,7 @@ A security check for your Windows PC and your own home or office network. Adaman
 
 - **Zero-knowledge** - “We cannot read your data.”
 - **Open-core** - “The core will be open. Privacy is free.”
-- **No-cloud** - “No cloud, no tracking.”
+- **Offline-first** - “Works without the internet.” Except Opal: it is a messenger, so it needs the internet. Messages travel over Tor, with no servers of ours.
 
 ## Links
 
