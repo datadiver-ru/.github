@@ -16,7 +16,7 @@
 | Камень | Что делает | Статус |
 | :--- | :--- | :--- |
 | 🔴 [Одем](#одем) | Бухгалтерия, которую невозможно прочитать извне | Бета 1.2.0, [демо](https://datadiver-ru.github.io/demo.html) |
-| 💎 [Адамант](#адамант) | Проверка защиты Windows и своей сети | Вышел · 1.2.5, [скачать](https://github.com/datadiver-ru/adamant/releases) |
+| 💎 [Адамант](#адамант) | Проверка защиты Windows и своей сети | Вышел · 1.2.6, [скачать](https://github.com/datadiver-ru/adamant/releases) |
 | 🌈 Опал | Анонимный мессенджер: без номера телефона, сквозное шифрование, сеть Tor. Бесплатный, с открытым кодом | Скоро · сначала Android и Windows |
 
 ### Одем
@@ -69,7 +69,7 @@ Each stone is software that protects your data. What they share: no cloud, no tr
 | Stone | What it does | Status |
 | :--- | :--- | :--- |
 | 🔴 [Odem](#odem) | Accounting that cannot be read from outside | Beta 1.2.0, [demo](https://datadiver-ru.github.io/en/demo.html) |
-| 💎 [Adamant](#adamant) | Security check for Windows and your own network | Released · 1.2.5, [download](https://github.com/datadiver-ru/adamant/releases) |
+| 💎 [Adamant](#adamant) | Security check for Windows and your own network | Released · 1.2.6, [download](https://github.com/datadiver-ru/adamant/releases) |
 | 🌈 Opal | Anonymous messenger: no phone number, end-to-end encryption, the Tor network. Free and open source | Coming soon · Android and Windows first |
 
 ### Odem
