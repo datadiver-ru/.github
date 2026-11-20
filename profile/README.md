@@ -45,7 +45,7 @@
 
 - **Zero-knowledge** - «Мы не можем прочитать ваши данные.»
 - **Open-core** - «Ядро будет открыто. Приватность бесплатна.»
-- **Offline-first** - «Работает без интернета.»
+- **No-cloud** - «Без облака и без слежки.»
 
 ## Ссылки
 
@@ -98,7 +98,7 @@ A security check for your Windows PC and your own home or office network. Adaman
 
 - **Zero-knowledge** - “We cannot read your data.”
 - **Open-core** - “The core will be open. Privacy is free.”
-- **Offline-first** - “Works without the internet.”
+- **No-cloud** - “No cloud, no tracking.”
 
 ## Links
 
