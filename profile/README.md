@@ -9,7 +9,7 @@
 <h1 align="center">КАМНИ</h1>
 <p align="center"><em>Программы, которые не могут прочитать ваши данные.</em></p>
 
-Каждый камень - закрытая программа, которая бережёт ваши данные. Общее у всех: работа без интернета и без облака, ничего не уходит наружу. Разное - задача и цвет. Лицо здесь не важно - важен код, поэтому образ проекта - Кира.
+Каждый камень - программа, которая бережёт ваши данные. Общее у всех: без облака и без слежки, ваши данные не читает никто, кроме вас. Разное - задача и цвет. Лицо здесь не важно - важен код, поэтому образ проекта - Кира.
 
 ## Камни
 
@@ -17,8 +17,7 @@
 | :--- | :--- | :--- |
 | 🔴 [Одем](#одем) | Бухгалтерия, которую невозможно прочитать извне | Бета 1.2.0, [демо](https://datadiver-ru.github.io/demo.html) |
 | 💎 [Адамант](#адамант) | Проверка защиты Windows и своей сети | Вышел · 1.2.5, [скачать](https://github.com/datadiver-ru/adamant/releases) |
-| ⚪️ Топаз | Юридическая версия | План |
-| ⚪️ Карбункул | Для нотариусов | План |
+| 🌈 Опал | Анонимный мессенджер: без номера телефона, сквозное шифрование, сеть Tor. Бесплатный, с открытым кодом | Скоро · сначала Android и Windows |
 
 ### Одем
 
@@ -63,7 +62,7 @@
 <h1 align="center">STONES</h1>
 <p align="center"><em>Software that can't read your data.</em></p>
 
-Each stone is closed software that protects your data. What they share: offline, no cloud, nothing leaves your machine. What differs is the job and the colour. The face doesn't matter - the code does, so the face of the project is Kira.
+Each stone is software that protects your data. What they share: no cloud, no tracking, nobody but you reads your data. What differs is the job and the colour. The face doesn't matter - the code does, so the face of the project is Kira.
 
 ## Stones
 
@@ -71,8 +70,7 @@ Each stone is closed software that protects your data. What they share: offline,
 | :--- | :--- | :--- |
 | 🔴 [Odem](#odem) | Accounting that cannot be read from outside | Beta 1.2.0, [demo](https://datadiver-ru.github.io/en/demo.html) |
 | 💎 [Adamant](#adamant) | Security check for Windows and your own network | Released · 1.2.5, [download](https://github.com/datadiver-ru/adamant/releases) |
-| ⚪️ Topaz | Legal edition | Planned |
-| ⚪️ Carbuncle | For notaries | Planned |
+| 🌈 Opal | Anonymous messenger: no phone number, end-to-end encryption, the Tor network. Free and open source | Coming soon · Android and Windows first |
 
 ### Odem
 
