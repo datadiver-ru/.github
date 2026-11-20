@@ -29,7 +29,7 @@
 - Работает без интернета и облака. КУДиР, декларация по УСН в XML, выгрузки для 1С.
 - Криптокошельки, выплаты по каналам, синхронизация через общую папку (туда уходит только шифр).
 
-[Об Одеме](https://datadiver-ru.github.io/odem.html) · [Демо в браузере](https://datadiver-ru.github.io/demo.html) · [Летопись](https://datadiver-ru.github.io/chronicle.html) · [Ключ «Бизнес» в боте](https://t.me/datadiver_shop_bot)
+[Об Одеме](https://datadiver-ru.github.io/odem.html) · [Демо в браузере](https://datadiver-ru.github.io/demo.html) · [Летопись](https://datadiver-ru.github.io/chronicle.html)
 
 ### Адамант
 
@@ -40,7 +40,7 @@
 - Исправления кнопкой с откатом. Сама ничего не отправляет в интернет.
 - Бесплатно - всё, что защищает. Полная версия добавляет Bluetooth, защиту входа, учения, «Пока вас не было» и «Закрыть лишнее»: одна кнопка закрывает все ненужные порты, видно, что перестанет работать, откат одной кнопкой.
 
-[Об Адаманте](https://datadiver-ru.github.io/adamant.html) · [Скачать](https://github.com/datadiver-ru/adamant/releases) · [Исходный код](https://github.com/datadiver-ru/adamant) (открыт для просмотра) · [Ключ полной версии в боте](https://t.me/datadiver_shop_bot)
+[Об Адаманте](https://datadiver-ru.github.io/adamant.html) · [Скачать](https://github.com/datadiver-ru/adamant/releases) · [Исходный код](https://github.com/datadiver-ru/adamant) (открыт для просмотра)
 
 ## Принципы
 
@@ -52,7 +52,6 @@
 
 - [Сайт](https://datadiver-ru.github.io/) · [Все камни](https://datadiver-ru.github.io/stones.html)
 - Читать: Telegram-канал [Кира · Data Diver](https://t.me/datadiver_ru) · [LinkedIn](https://www.linkedin.com/in/datadiverru)
-- Ключи к камням: Telegram-бот Киры [@datadiver_shop_bot](https://t.me/datadiver_shop_bot)
 - Связь и сообщения об уязвимостях: data.diver.ru@gmail.com · Telegram [@data_diver_ru](https://t.me/data_diver_ru)
 
 <sub>Аватар - Кира. Лицо не важно. Важен код.</sub>
@@ -84,7 +83,7 @@ Accounting for small companies. The first stone: born of fire, became protection
 - Works offline, no cloud. Russian tax forms and 1C exports.
 - Crypto wallets, payouts by channel, sync through a shared folder (only ciphertext goes there).
 
-[About Odem](https://datadiver-ru.github.io/en/odem.html) · [Browser demo](https://datadiver-ru.github.io/en/demo.html) · [Chronicle](https://datadiver-ru.github.io/en/chronicle.html) · [Business key in the bot](https://t.me/datadiver_shop_bot)
+[About Odem](https://datadiver-ru.github.io/en/odem.html) · [Browser demo](https://datadiver-ru.github.io/en/demo.html) · [Chronicle](https://datadiver-ru.github.io/en/chronicle.html)
 
 ### Adamant
 
@@ -95,7 +94,7 @@ A security check for your Windows PC and your own home or office network. Adaman
 - One-click fixes with undo. Sends nothing to the internet on its own.
 - Everything that protects you is free. The full version adds Bluetooth, sign-in protection, drills, "While you were away" and Close what is not needed: one button closes all unneeded ports, shows what will stop working, undo in one click.
 
-[About Adamant](https://datadiver-ru.github.io/en/adamant.html) · [Download](https://github.com/datadiver-ru/adamant/releases) · [Source code](https://github.com/datadiver-ru/adamant) (available to read) · [Full version key in the bot](https://t.me/datadiver_shop_bot)
+[About Adamant](https://datadiver-ru.github.io/en/adamant.html) · [Download](https://github.com/datadiver-ru/adamant/releases) · [Source code](https://github.com/datadiver-ru/adamant) (available to read)
 
 ## Principles
 
@@ -107,7 +106,6 @@ A security check for your Windows PC and your own home or office network. Adaman
 
 - [Website](https://datadiver-ru.github.io/en/) · [All stones](https://datadiver-ru.github.io/en/stones.html)
 - Follow: [LinkedIn](https://www.linkedin.com/in/datadiverru) · Telegram channel [Kira · Data Diver](https://t.me/datadiver_ru) (RU)
-- Keys to the stones: Kira’s Telegram bot [@datadiver_shop_bot](https://t.me/datadiver_shop_bot)
 - Contact and vulnerability reports: data.diver.ru@gmail.com · Telegram [@data_diver_ru](https://t.me/data_diver_ru)
 
 <sub>The avatar is Kira. The face doesn’t matter. The code does.</sub>
